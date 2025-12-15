@@ -1,0 +1,52 @@
+data:
+  data_dir: d:\kisaan madadgaar\Plant-Disease-Detection\data\PakistanCrops_Merged
+  img_size: 224
+  batch_size: 32  # Increased for fewer batches and faster loading  # Reduced for 4GB GPU (M1200) - prevents OOM errors
+  num_workers: 4  # Optimized for GPU training
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  augmentation: true
+model:
+  num_classes: 34
+  architecture: resnet50  # Using ResNet50 (supported model, ~25M params)
+  pretrained: true
+  freeze_layers: false
+  dropout: 0.3
+training:
+  epochs: 50
+  learning_rate: 0.0001
+  weight_decay: 0.01
+  optimizer: adamw
+  scheduler: cosine
+  early_stopping_patience: 10
+  save_best_only: true
+  mixed_precision: true  # Enable for 4GB GPU memory efficiency
+  gradient_accumulation_steps: 4  # Simulate batch_size=32 (8*4)
+paths:
+  data_dir: d:\kisaan madadgaar\Plant-Disease-Detection\data\PakistanCrops_Merged
+  model_save_dir: ../saved_models/pakistan
+  results_dir: ../results/pakistan
+  logs_dir: ../logs/pakistan
+  class_mapping: d:\kisaan madadgaar\Plant-Disease-Detection\results\pakistan_integration\class_names_mapping.json
+  class_names: d:\kisaan madadgaar\Plant-Disease-Detection\results\pakistan_integration\class_names.txt
+pakistan_specific:
+  crops_covered:
+  - rice
+  - cotton
+  - wheat
+  - mango
+  - plantvillage
+  total_classes: 34
+  total_images: 46808
+  priority_crops:
+  - rice
+  - wheat
+  - cotton
+  - mango
+  - tomato
+  - potato
+  - corn
+  includes_clcuv: true
+  dataset_created: '2025-11-26 13:47:06.903339'
+  urdu_support: true

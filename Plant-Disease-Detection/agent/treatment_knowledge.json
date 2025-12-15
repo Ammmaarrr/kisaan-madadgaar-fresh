@@ -1,0 +1,90 @@
+{
+  "Apple___Apple_scab": [
+    {
+      "treatment": "Fungicide_spray_Captan",
+      "cost": 50,
+      "effectiveness": 80,
+      "time": 14,
+      "application": "Spray every 7-10 days",
+      "notes": "Most effective when applied preventively"
+    },
+    {
+      "treatment": "Remove_infected_leaves",
+      "cost": 10,
+      "effectiveness": 40,
+      "time": 3,
+      "application": "Manual removal and disposal",
+      "notes": "Reduces disease spread"
+    },
+    {
+      "treatment": "Copper_based_treatment",
+      "cost": 70,
+      "effectiveness": 90,
+      "time": 21,
+      "application": "Apply during dormant season",
+      "notes": "Highly effective but more expensive"
+    }
+  ],
+  "Tomato___Bacterial_spot": [
+    {
+      "treatment": "Copper_spray",
+      "cost": 60,
+      "effectiveness": 75,
+      "time": 14,
+      "application": "Spray weekly",
+      "notes": "Weather dependent effectiveness"
+    },
+    {
+      "treatment": "Crop_rotation",
+      "cost": 100,
+      "effectiveness": 60,
+      "time": 365,
+      "application": "Rotate with non-host crops",
+      "notes": "Long-term prevention"
+    },
+    {
+      "treatment": "Bactericide_streptomycin",
+      "cost": 80,
+      "effectiveness": 85,
+      "time": 10,
+      "application": "Apply at first sign",
+      "notes": "Most effective early treatment"
+    }
+  ],
+  "Tomato___Early_blight": [
+    {
+      "treatment": "Fungicide_Chlorothalonil",
+      "cost": 55,
+      "effectiveness": 80,
+      "time": 14,
+      "application": "Spray every 7-10 days",
+      "notes": "Preventive application recommended"
+    },
+    {
+      "treatment": "Remove_lower_leaves",
+      "cost": 10,
+      "effectiveness": 35,
+      "time": 2,
+      "application": "Prune lower 12 inches",
+      "notes": "Improves air circulation"
+    }
+  ],
+  "Potato___Late_blight": [
+    {
+      "treatment": "Fungicide_Cymoxanil",
+      "cost": 75,
+      "effectiveness": 90,
+      "time": 10,
+      "application": "Preventive spray",
+      "notes": "Highly effective"
+    },
+    {
+      "treatment": "Remove_all_infected_plants",
+      "cost": 30,
+      "effectiveness": 65,
+      "time": 2,
+      "application": "Immediate destruction",
+      "notes": "Essential containment"
+    }
+  ]
+}

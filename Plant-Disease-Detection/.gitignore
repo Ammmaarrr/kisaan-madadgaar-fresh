@@ -1,0 +1,54 @@
+# API Keys - NEVER commit these!
+kaggle.json
+*.json.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+.conda/
+
+# Data files (too large for GitHub)
+data/
+*.pt
+*.pth
+saved_models/
+*.h5
+*.hdf5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_log*.txt
+
+# Uploads
+Flask Deployed App/static/uploads/*
+!Flask Deployed App/static/uploads/.gitkeep
+
+# Test images
+test_images/
+demo_images/*.jpg
+demo_images/*.png
+
+# Results (can be regenerated)
+results/
+
+# Temporary files
+*.tmp
+*.temp

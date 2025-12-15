@@ -1,0 +1,255 @@
+index,disease_name,description,Possible Steps,image_url
+0,Cotton - Diseased Cotton Leaf,"Cotton leaf diseases can significantly reduce yield and fiber quality. Diseased cotton leaves show symptoms like yellowing, spots, or lesions caused by fungal or bacterial infections. Early detection and treatment are crucial for maintaining healthy crops.","Remove and destroy infected leaves to prevent spread.
+Apply appropriate fungicides or bactericides as recommended by agricultural experts.
+Ensure proper field drainage and avoid waterlogging.
+Maintain adequate plant spacing for air circulation.
+Use disease-resistant cotton varieties when available.
+Monitor fields regularly for early signs of disease.",https://via.placeholder.com/400x300.png?text=Cotton+Diseased+Leaf
+1,Cotton - Diseased Cotton Plant,"Diseased cotton plants exhibit systemic symptoms including wilting, stunted growth, yellowing of leaves, and reduced boll formation. These symptoms can be caused by various pathogens including fungi, bacteria, or viruses affecting the entire plant system.","Remove severely infected plants to prevent pathogen spread.
+Apply appropriate pesticides and fungicides as per expert recommendations.
+Improve soil health with organic matter and proper fertilization.
+Ensure proper irrigation management to avoid water stress.
+Implement crop rotation with non-host crops.
+Use certified disease-free seeds.",https://via.placeholder.com/400x300.png?text=Cotton+Diseased+Plant
+2,Cotton - Fresh Cotton Leaf,"Fresh, healthy cotton leaves are deep green in color with smooth texture and no visible spots or lesions. Healthy leaves indicate proper nutrition, adequate water supply, and absence of pest or disease pressure. These leaves contribute to optimal photosynthesis and plant growth.","Maintain regular irrigation schedule to keep leaves turgid.
+Apply balanced fertilizers (NPK) according to soil test recommendations.
+Ensure adequate sunlight exposure for photosynthesis.
+Protect from extreme weather conditions.
+Monitor for early pest and disease symptoms.
+Maintain proper field sanitation.",https://via.placeholder.com/400x300.png?text=Cotton+Fresh+Leaf
+3,Cotton - Fresh Cotton Plant,"Healthy cotton plants display vigorous growth, deep green foliage, strong stems, and abundant boll formation. Fresh cotton plants indicate optimal growing conditions including proper nutrition, water management, and absence of significant pest or disease pressure.","Provide adequate water through drip or furrow irrigation.
+Apply balanced fertilizers based on soil testing and crop stage.
+Implement integrated pest management (IPM) practices.
+Ensure proper plant spacing (typically 60-90 cm between rows).
+Maintain weed-free fields to reduce competition.
+Regular monitoring for pests and diseases.
+Harvest at proper maturity to maintain fiber quality.",https://via.placeholder.com/400x300.png?text=Cotton+Fresh+Plant
+4,Mango - Anthracnose,"Anthracnose is a fungal disease caused by Colletotrichum gloeosporioides. It affects mango leaves, flowers, fruits, and twigs, causing dark sunken lesions. The disease is most severe during warm, humid weather and can cause significant post-harvest losses.","Apply copper-based fungicides during pre-flowering and fruit development stages.
+Remove and destroy infected plant parts.
+Ensure proper orchard sanitation by removing fallen leaves and fruits.
+Prune trees to improve air circulation and sunlight penetration.
+Avoid overhead irrigation to reduce leaf wetness.
+Apply post-harvest treatments to reduce fruit rot.
+Harvest fruits at proper maturity.",https://via.placeholder.com/400x300.png?text=Mango+Anthracnose
+5,Mango - Bacterial Canker,"Bacterial canker, caused by Xanthomonas species, produces water-soaked lesions on leaves, twigs, and fruits. The disease causes dieback of branches, fruit spotting, and can severely reduce yield. It spreads rapidly during rainy seasons.","Apply copper-based bactericides during critical growth stages.
+Remove and burn infected branches and twigs.
+Avoid mechanical injuries to trees during cultural operations.
+Disinfect pruning tools between trees.
+Improve orchard drainage to reduce humidity.
+Apply windbreaks to reduce mechanical wounds.
+Use disease-free planting material.",https://via.placeholder.com/400x300.png?text=Mango+Bacterial+Canker
+6,Mango - Cutting Weevil,"Mango cutting weevil (Deporaus marginatus) is a serious pest that damages tender shoots, causing shoot wilting and dieback. Adult weevils cut tender shoots partially and lay eggs, leading to withering of shoot tips. This affects new growth and reduces flowering.","Monitor orchards regularly for weevil activity, especially during new flush.
+Collect and destroy cut twigs with eggs or larvae.
+Apply recommended insecticides during peak weevil activity.
+Prune and destroy severely infested shoots.
+Maintain orchard sanitation by removing plant debris.
+Use pheromone traps if available.
+Encourage natural enemies like birds.",https://via.placeholder.com/400x300.png?text=Mango+Cutting+Weevil
+7,Mango - Die Back,"Mango dieback is caused by fungal pathogens (Lasiodiplodia species) that cause progressive death of twigs, branches, and eventually entire trees. Symptoms include browning of leaves, twig dieback, and gum exudation. The disease is more severe in stressed trees.","Prune diseased branches 15-20 cm below visible symptoms and apply wound paste.
+Destroy pruned material by burning.
+Apply systemic fungicides during monsoon season.
+Ensure proper nutrition and water management to reduce tree stress.
+Avoid injuries to bark and branches.
+Improve soil drainage if waterlogging is present.
+Apply organic mulch to maintain soil moisture.",https://via.placeholder.com/400x300.png?text=Mango+Die+Back
+8,Mango - Gall Midge,"Mango gall midge (Procontarinia species) is a tiny fly whose larvae cause abnormal growth (galls) on tender leaves, inflorescence, and fruits. Infested tissues become malformed, reducing flowering and fruit set. The pest is most active during new flush periods.","Remove and destroy infested plant parts including galls.
+Apply recommended insecticides during new flush emergence.
+Plow the orchard soil to expose pupae to predators and sunlight.
+Spray neem-based biopesticides as preventive measure.
+Maintain proper orchard sanitation.
+Time pruning to avoid peak gall midge activity periods.
+Encourage natural parasitoids.",https://via.placeholder.com/400x300.png?text=Mango+Gall+Midge
+9,Mango - Healthy,"Healthy mango trees have dark green, glossy leaves with no spots or discoloration. Trees display vigorous growth, abundant flowering, and good fruit set. Healthy trees are well-nourished, properly watered, and free from significant pest and disease pressure.","Maintain regular irrigation schedule, especially during fruit development.
+Apply balanced fertilizers (NPK) based on soil tests and tree age.
+Implement integrated pest and disease management practices.
+Prune annually to maintain canopy shape and light penetration.
+Mulch around trees to conserve moisture and suppress weeds.
+Monitor regularly for early detection of pests and diseases.
+Protect from extreme weather conditions.",https://via.placeholder.com/400x300.png?text=Mango+Healthy
+10,Mango - Powdery Mildew,"Powdery mildew, caused by Oidium mangiferae, appears as white powdery growth on leaves, flowers, and young fruits. It is most severe during flowering, causing flower drop and reduced fruit set. The disease thrives in warm, dry conditions with cool nights.","Apply sulfur-based fungicides at flower bud emergence and repeat at 10-15 day intervals.
+Remove and destroy heavily infected plant parts.
+Ensure adequate spacing between trees for air circulation.
+Avoid excessive nitrogen fertilization which promotes susceptible tender growth.
+Apply recommended fungicides before and during flowering.
+Monitor weather conditions and spray preventively during favorable disease conditions.",https://via.placeholder.com/400x300.png?text=Mango+Powdery+Mildew
+11,Mango - Sooty Mould,"Sooty mould is a black fungal growth that develops on honeydew secreted by sap-sucking insects like mealybugs, scales, and aphids. While not directly parasitic, it reduces photosynthesis by coating leaves and fruits. It indicates the presence of sap-sucking pests.","Control sap-sucking insects (mealybugs, scales, aphids) using appropriate insecticides.
+Spray neem oil or insecticidal soap to control pests and remove mould.
+Wash off sooty mould with water spray or mild soap solution.
+Improve air circulation through proper pruning.
+Encourage natural predators of sap-sucking insects.
+Monitor trees regularly for pest infestations.
+Apply systemic insecticides if pest pressure is high.",https://via.placeholder.com/400x300.png?text=Mango+Sooty+Mould
+12,Pepper (Bell) - Bacterial Spot,"Bacterial spot is caused by Xanthomonas species and affects pepper leaves, stems, and fruits. Symptoms include small water-soaked spots on leaves that turn brown, leaf yellowing, defoliation, and fruit lesions. The disease spreads rapidly during warm, wet weather.","Use disease-free certified seeds and transplants.
+Apply copper-based bactericides preventively, especially during wet weather.
+Avoid overhead irrigation to reduce leaf wetness.
+Remove and destroy infected plants to prevent spread.
+Rotate crops with non-solanaceous plants for at least 2-3 years.
+Disinfect tools and equipment between uses.
+Maintain proper plant spacing for air circulation.",https://via.placeholder.com/400x300.png?text=Pepper+Bacterial+Spot
+13,Pepper (Bell) - Healthy,"Healthy pepper plants have dark green leaves, strong stems, and abundant fruit production. Plants display vigorous growth with no signs of disease, pest damage, or nutrient deficiency. Healthy peppers indicate optimal growing conditions and proper management.","Maintain consistent soil moisture through drip irrigation.
+Apply balanced fertilizers with emphasis on calcium to prevent blossom end rot.
+Ensure full sun exposure (6-8 hours daily).
+Maintain proper spacing (45-60 cm between plants).
+Mulch to conserve moisture and suppress weeds.
+Monitor regularly for pests and diseases.
+Harvest fruits at appropriate maturity.
+Maintain soil pH between 6.0-6.8.",https://via.placeholder.com/400x300.png?text=Pepper+Healthy
+14,Potato - Early Blight,"Early blight, caused by Alternaria solani, produces dark brown to black concentric ring spots on older leaves. The disease progresses upward, causing yellowing, leaf drop, and reduced tuber yield. It thrives in warm, humid conditions.","Apply fungicides (mancozeb, chlorothalonil) preventively and at first disease signs.
+Remove and destroy infected lower leaves.
+Ensure proper plant spacing for air circulation.
+Avoid overhead irrigation; use drip irrigation when possible.
+Rotate crops with non-solanaceous plants for 3-4 years.
+Use resistant varieties when available.
+Apply balanced fertilizers to maintain plant vigor.
+Destroy crop debris after harvest.",https://via.placeholder.com/400x300.png?text=Potato+Early+Blight
+15,Potato - Late Blight,"Late blight, caused by Phytophthora infestans, is the most devastating potato disease. It causes water-soaked lesions on leaves and stems, rapid foliage death, and tuber rot. The disease spreads rapidly during cool, wet conditions and can destroy entire crops.","Apply systemic and contact fungicides preventively in disease-prone areas.
+Scout fields regularly, especially during favorable weather (cool, wet conditions).
+Remove volunteer potatoes and related solanaceous weeds.
+Ensure good drainage to reduce humidity.
+Hill potatoes properly to protect tubers from spore wash-down.
+Use certified disease-free seed potatoes.
+Destroy infected crop residues.
+Avoid late-season irrigation to allow tubers to mature.",https://via.placeholder.com/400x300.png?text=Potato+Late+Blight
+16,Potato - Healthy,"Healthy potato plants have vigorous growth, dark green foliage, strong stems, and good tuber development. Plants are free from disease symptoms, pest damage, and nutrient deficiencies. Healthy plants produce high-quality tubers with good market value.","Maintain consistent soil moisture (2.5-5 cm water per week).
+Apply balanced fertilizers based on soil tests (higher K for tuber development).
+Ensure well-drained soil (pH 5.0-6.5).
+Hill plants properly to protect developing tubers from sunlight.
+Control weeds to reduce competition and disease habitat.
+Monitor for pests (Colorado potato beetle, aphids) and diseases.
+Harvest when foliage begins to die back naturally.
+Cure tubers properly before storage.",https://via.placeholder.com/400x300.png?text=Potato+Healthy
+17,Tomato - Bacterial Spot,"Bacterial spot affects tomato leaves, stems, and fruits. Symptoms include small, dark brown spots with yellow halos on leaves, causing defoliation. Fruit spots are raised with white halos. The disease spreads through water splash and is severe in warm, wet conditions.","Use certified disease-free seeds and transplants.
+Apply copper-based bactericides preventively during wet weather.
+Remove and destroy infected plants promptly.
+Avoid overhead irrigation; use drip irrigation.
+Rotate crops with non-solanaceous plants for 3 years.
+Maintain proper plant spacing for air circulation.
+Disinfect stakes, cages, and tools between uses.
+Avoid working in fields when plants are wet.",https://via.placeholder.com/400x300.png?text=Tomato+Bacterial+Spot
+18,Tomato - Early Blight,"Early blight causes dark brown concentric ring spots on older tomato leaves, yellowing, and premature leaf drop. It also affects stems and fruits. The disease is most severe during warm, humid weather and reduces yield through defoliation and fruit damage.","Apply fungicides (chlorothalonil, mancozeb) preventively and at first symptoms.
+Remove infected lower leaves to reduce disease spread.
+Mulch around plants to prevent soil splash onto leaves.
+Avoid overhead irrigation; water at base of plants.
+Ensure adequate spacing for air circulation.
+Rotate crops with non-solanaceous plants for 3-4 years.
+Apply balanced fertilizers to maintain plant health.
+Use resistant varieties when available.",https://via.placeholder.com/400x300.png?text=Tomato+Early+Blight
+19,Tomato - Late Blight,"Late blight causes water-soaked lesions on leaves and stems, white fungal growth on leaf undersides, and rapid plant death. Fruits develop greasy-looking brown lesions. This highly destructive disease spreads rapidly during cool, wet weather.","Apply fungicides (chlorothalonil, mancozeb, copper) preventively in conducive weather.
+Remove and destroy infected plants immediately.
+Scout fields regularly during cool, wet weather.
+Use drip irrigation to keep foliage dry.
+Ensure good air circulation through proper spacing and staking.
+Remove volunteer potatoes and tomatoes (alternate hosts).
+Use resistant varieties when available.
+Avoid late-season watering.",https://via.placeholder.com/400x300.png?text=Tomato+Late+Blight
+20,Tomato - Leaf Mold,"Leaf mold, caused by Passalora fulva, produces pale yellow spots on upper leaf surfaces and olive-green to brown fuzzy growth on lower surfaces. It thrives in high humidity (85%+) and is common in greenhouses and humid climates.","Improve ventilation in greenhouses by opening vents and using fans.
+Reduce humidity by spacing plants properly and pruning lower leaves.
+Avoid overhead irrigation; water in mornings to allow foliage to dry.
+Apply fungicides (chlorothalonil, mancozeb) at first signs.
+Use resistant varieties with Cf genes.
+Remove and destroy infected leaves.
+Maintain greenhouse temperature above 77°F (25°C) when possible.",https://via.placeholder.com/400x300.png?text=Tomato+Leaf+Mold
+21,Tomato - Septoria Leaf Spot,"Septoria leaf spot causes numerous small, circular spots with dark borders and gray centers containing black fruiting bodies. Spots appear first on lower leaves, causing yellowing and defoliation. The disease is favored by warm, wet weather.","Apply fungicides (chlorothalonil, mancozeb) at first symptoms and repeat every 7-10 days.
+Remove infected lower leaves and destroy them.
+Mulch to prevent soil splash onto leaves.
+Avoid overhead irrigation; use drip irrigation.
+Ensure adequate plant spacing for air circulation.
+Rotate crops with non-solanaceous plants for 3 years.
+Stake plants to keep foliage off ground.
+Remove crop debris after harvest.",https://via.placeholder.com/400x300.png?text=Tomato+Septoria+Leaf+Spot
+22,Tomato - Spider Mites (Two-spotted Spider Mite),"Two-spotted spider mites cause leaf stippling (tiny yellow spots), bronzing, webbing on undersides of leaves, and premature leaf drop. Mites thrive in hot, dry conditions and can cause severe yield losses if not controlled.","Apply miticides (abamectin, bifenazate) at first signs of infestation.
+Spray undersides of leaves where mites congregate.
+Increase humidity to discourage mite reproduction.
+Use overhead irrigation occasionally to dislodge mites.
+Avoid excessive nitrogen fertilization which favors mites.
+Encourage natural predators (ladybugs, lacewings, predatory mites).
+Remove and destroy heavily infested plants.
+Maintain plant health to improve tolerance.",https://via.placeholder.com/400x300.png?text=Tomato+Spider+Mites
+23,Tomato - Target Spot,"Target spot causes irregular brown spots with concentric rings on leaves, starting on older foliage and spreading upward. Spots also occur on stems and fruits. Severe infections cause yellowing, leaf drop, and reduced yield. The disease is favored by warm, humid weather.","Apply fungicides (chlorothalonil, mancozeb, azoxystrobin) preventively.
+Remove infected lower leaves to reduce inoculum.
+Ensure proper spacing for air circulation and rapid drying.
+Avoid overhead irrigation; use drip systems.
+Rotate crops with non-solanaceous plants.
+Maintain balanced nutrition to strengthen plant defense.
+Remove crop debris after harvest.
+Use mulch to prevent soil splash.",https://via.placeholder.com/400x300.png?text=Tomato+Target+Spot
+24,Tomato - Yellow Leaf Curl Virus,"Tomato yellow leaf curl virus (TYLCV) causes severe upward curling of leaves, yellowing of leaf margins, stunted growth, and reduced fruit production. The virus is transmitted by whiteflies (Bemisia tabaci) and can cause complete crop loss.","Use virus-free certified transplants.
+Control whitefly vectors using insecticides (imidacloprid, thiamethoxam).
+Use yellow sticky traps to monitor and trap whiteflies.
+Remove infected plants immediately to prevent spread.
+Use reflective mulches to repel whiteflies.
+Plant resistant varieties with Ty genes.
+Install insect-proof nets in greenhouses.
+Eliminate alternative host weeds.
+Avoid planting near infected older crops.",https://via.placeholder.com/400x300.png?text=Tomato+TYLCV
+25,Tomato - Mosaic Virus,"Tomato mosaic virus causes mottled light and dark green patterns on leaves, leaf distortion, stunted growth, and reduced fruit quality. The virus spreads mechanically through contaminated hands, tools, and contact between plants.","Use certified virus-free seeds and transplants.
+Disinfect hands with soap and milk before handling plants.
+Disinfect tools with 10% bleach solution between plants.
+Remove and destroy infected plants immediately.
+Control aphids which may transmit the virus.
+Avoid smoking near tomato plants (tobacco products may carry virus).
+Use resistant varieties when available.
+Avoid working with plants when wet.
+Practice strict sanitation in greenhouses.",https://via.placeholder.com/400x300.png?text=Tomato+Mosaic+Virus
+26,Tomato - Healthy,"Healthy tomato plants display vigorous growth, dark green leaves, strong stems, abundant flowering, and good fruit development. Plants are free from disease symptoms, pest damage, and nutrient deficiencies, producing high-quality marketable fruits.","Provide consistent moisture (2.5-5 cm water per week) through drip irrigation.
+Apply balanced fertilizers (higher K during fruiting) based on soil tests.
+Ensure full sun exposure (6-8 hours daily).
+Maintain proper spacing (60-90 cm between plants).
+Stake or cage plants to support fruit and improve air circulation.
+Mulch to conserve moisture and suppress weeds.
+Monitor regularly for pests and diseases.
+Maintain soil pH between 6.0-6.8.
+Harvest fruits at proper ripeness.",https://via.placeholder.com/400x300.png?text=Tomato+Healthy
+27,Rice - Brown Spot,"Rice brown spot, caused by Bipolaris oryzae, produces oval brown spots with gray centers on leaves, leaf sheaths, and grains. Severe infections cause extensive leaf damage, reduced grain filling, and yield losses. The disease is favored by nutrient deficiency and water stress.","Apply balanced fertilizers, especially potassium and silicon, to improve plant resistance.
+Ensure adequate water management; avoid both drought and flooding stress.
+Apply seed treatment with fungicides (carbendazim, tricyclazole) before planting.
+Spray fungicides (propiconazole, azoxystrobin) at first disease symptoms.
+Use resistant varieties when available.
+Remove and destroy crop residues after harvest.
+Practice crop rotation with non-rice crops when possible.",https://via.placeholder.com/400x300.png?text=Rice+Brown+Spot
+28,Rice - Healthy,"Healthy rice plants display vigorous growth, dark green leaves, strong tillers, and good panicle development. Plants are well-nourished, properly managed, and free from disease and pest pressure. Healthy plants produce high yields of quality grain.","Maintain proper water management (2-5 cm standing water during vegetative growth).
+Apply balanced fertilizers based on soil tests (split nitrogen applications).
+Ensure adequate spacing for air circulation (20x20 cm for transplanted rice).
+Control weeds through manual weeding or herbicides.
+Monitor for pests (stem borers, leaf folders, planthoppers) and diseases.
+Maintain proper leveling of fields for uniform water distribution.
+Drain fields before harvest to facilitate grain maturity.",https://via.placeholder.com/400x300.png?text=Rice+Healthy
+29,Rice - Hispa,"Rice hispa (Dicladispa armigera) is a serious pest whose adults and grlarvae feed on leaf tissue, creating white parallel streaks. Severe infestations cause extensive leaf damage, reduced photosynthesis, and yield losses. The pest is most active during vegetative growth.","Remove and destroy infested leaves where eggs and larvae are present.
+Apply recommended insecticides (fipronil, chlorpyrifos) when pest population exceeds threshold.
+Drain water from field to expose larvae and pupae.
+Use light traps to monitor and catch adult beetles.
+Clip leaf tips where eggs are laid.
+Avoid excessive nitrogen fertilization which makes plants attractive to hispa.
+Encourage natural predators like birds.
+Practice crop rotation when possible.",https://via.placeholder.com/400x300.png?text=Rice+Hispa
+30,Rice - Leaf Blast,"Rice blast, caused by Magnaporthe oryzae, is the most destructive rice disease worldwide. Leaf blast produces diamond-shaped lesions with gray centers and brown margins. Severe infections cause extensive leaf damage, neck breakage, and significant yield losses.","Apply fungicides (tricyclazole, isoprothiolane, azoxystrobin) preventively and at first symptoms.
+Use blast-resistant varieties adapted to the region.
+Apply balanced fertilizers; avoid excessive nitrogen which increases susceptibility.
+Ensure proper water management; avoid prolonged wetness.
+Practice crop rotation with non-rice crops when possible.
+Remove and destroy crop residues and volunteer rice plants.
+Use certified disease-free seeds.
+Monitor fields regularly, especially during cloudy, humid weather.",https://via.placeholder.com/400x300.png?text=Rice+Leaf+Blast
+31,Wheat - Healthy,"Healthy wheat plants display vigorous growth, dark green leaves, strong stems, and good ear development. Plants are well-nourished, properly managed, and free from disease and pest pressure. Healthy plants produce high yields of quality grain.","Ensure adequate moisture during critical growth stages (tillering, anthesis, grain filling).
+Apply balanced fertilizers based on soil tests (split nitrogen applications).
+Maintain proper seeding rate (100-125 kg/ha) for optimal plant population.
+Control weeds through pre-emergence and post-emergence herbicides.
+Monitor for pests (aphids, armyworms) and diseases.
+Ensure proper drainage to avoid waterlogging.
+Harvest at proper maturity when moisture content is 12-14%.",https://via.placeholder.com/400x300.png?text=Wheat+Healthy
+32,Wheat - Septoria,"Wheat septoria, caused by Septoria tritici, produces small yellow spots on leaves that enlarge and turn brown with tiny black fruiting bodies. The disease causes premature leaf senescence and reduced grain filling. It spreads rapidly during wet weather.","Apply fungicides (propiconazole, azoxystrobin, tebuconazole) at flag leaf emergence and repeat if necessary.
+Use resistant varieties when available.
+Rotate crops with non-cereal crops for at least 2 years.
+Remove and destroy crop residues after harvest.
+Avoid excessive nitrogen fertilization which increases disease severity.
+Ensure adequate spacing for air circulation.
+Monitor fields regularly, especially during wet weather.
+Plant at appropriate times to avoid peak disease periods.",https://via.placeholder.com/400x300.png?text=Wheat+Septoria
+33,Wheat - Stripe Rust,"Wheat stripe rust (yellow rust), caused by Puccinia striiformis, produces yellowish-orange pustules arranged in stripes on leaves. The disease can cause severe yield losses through reduced photosynthesis and premature leaf death. It favors cool, moist conditions.","Apply fungicides (propiconazole, tebuconazole, azoxystrobin) at first rust symptoms.
+Use rust-resistant varieties appropriate for the region.
+Monitor fields regularly, especially during cool (10-15°C), moist weather.
+Remove volunteer wheat plants which can harbor rust spores.
+Apply appropriate nitrogen levels; avoid excessive nitrogen.
+Plant at recommended times to avoid peak rust periods.
+Practice crop rotation with non-cereal crops.
+Destroy crop residues after harvest.",https://via.placeholder.com/400x300.png?text=Wheat+Stripe+Rust
